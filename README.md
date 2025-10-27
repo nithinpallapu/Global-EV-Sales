@@ -62,4 +62,5 @@ This Power BI project demonstrates how **data storytelling** can simplify comple
 ## Screenshots
 
 ![Dashboard Preview](https://github.com/nithinpallapu/Global-EV-Sales/blob/main/Regional%20%26%20Ctegory%20Trends.png)
+![Dashboard Preview](https://github.com/nithinpallapu/Global-EV-Sales/blob/main/Powertrain%20%26%20Mode%20Insights.png)
 
